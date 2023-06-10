@@ -21,7 +21,7 @@
 
 
 <div style="display: flex; flex-direction: column;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesrushti&show_icons=true&locale=en&layout=compact" alt="kokatesrushti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesrushti&show_icons=true&locale=en&layout=compact" alt="kokatesrushti" padding-right="400px"/></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokatesrushti&show_icons=true&locale=en" alt="kokatesrushti" /></p>
