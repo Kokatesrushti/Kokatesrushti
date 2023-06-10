@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srushti Kokate</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="300" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="300" height="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokatesrushti&label=Profile%20views&color=0e75b6&style=flat" alt="kokatesrushti" /> </p>
 
