@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesrushti&show_icons=true&locale=en&layout=compact" alt="kokatesrushti"/></p>
 
+<p style="padding-right:200px"></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokatesrushti&show_icons=true&locale=en" alt="kokatesrushti"/></p>
 
